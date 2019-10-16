@@ -8,7 +8,7 @@ import Products from './components/Products';
 import ShoppingCart from './components/ShoppingCart';
 
 //Contexts
-import ProductContext from './contexts/ProductContext'
+import {ProductContext} from './contexts/ProductContext'
 import Product from './components/Product';
 
 function App() {
